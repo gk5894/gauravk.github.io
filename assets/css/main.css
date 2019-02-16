@@ -2538,6 +2538,14 @@ input, select, textarea {
 					color: #953d75;
 				}
 
+				.wrapper.style4 .icon.major:before {
+					color: #0478ad;
+				}
+
+				.wrapper.style4-alt .icon.major:before {
+					color: #055597;
+				}
+
 /* Image */
 
 	.image {
